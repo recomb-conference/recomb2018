@@ -1,0 +1,1813 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+
+	<head>
+
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+				
+			<link rel="shortcut icon" href="wp-content/uploads/2017/07/Logo3-600.png">
+		
+		
+		
+		
+			<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2017/07/Logo3-600.png">
+		
+				
+
+		<title>RECOMB-Genetics &#8211; RECOMB 2018</title>
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="RECOMB 2018 &raquo; Feed" href="feed/" />
+<link rel="alternate" type="application/rss+xml" title="RECOMB 2018 &raquo; Comments Feed" href="comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/recomb2018.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mptt-blocks-css'  href='wp-content/plugins/mp-timetable.html/media/css/style.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mptt-style-css'  href='wp-content/plugins/mp-timetable.htmlmedia/css/style.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='svg-flags-css-css'  href='wp-content/plugins/svg-flags-lite/flag-icon-css/css/flag-icon.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='svg-flags-plugin-css-css'  href='wp-content/plugins/svg-flags-lite/css/svg-flags.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='retro-fonts-css'  href='http://fonts.googleapis.com/css?family=Roboto+Slab%3A400%2C700%7COswald%3A400%2C700&#038;subset&#038;ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='retro-icons-css'  href='wp-content/themes/Retro-4/fonts/retro-icons.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='retro-style-css'  href='wp-content/themes/Retro-4/style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='wp-content/tablepress-combined.min.css?ver=19' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/Retro-4/js/modernizr.js?ver=2.7.1'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js?ver=5.1.1'></script>
+<link rel='https://api.w.org/' href='wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.1" />
+<link rel="canonical" href="recomb-genetics.html" />
+<link rel='shortlink' href='?p=840' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=http%3A%2F%2Frecomb2018.fr%2Frecomb-genetics%2F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=http%3A%2F%2Frecomb2018.fr%2Frecomb-genetics%2F&#038;format=xml" />
+<noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript><style>body, input, textarea, .blog-list .post-title h3, .blog-list h4.post-meta, .portfolio-list ul li h3, .single h2.post-title, .page h2.post-title { font-family: "Roboto Slab", sans-serif; }</style><style>.hentry-content h1, .hentry-content h2, .hentry-content h3, .hentry-content h4, .hentry-content h5, .hentry-content h6, .section-subtitle, .blog-list h4.post-meta, .single h4.post-meta, .widget h3, .comments h3, .comments h4, .comment-author, .more-posts { font-family: "Oswald", serif; }</style><link rel="icon" href="wp-content/uploads/2017/07/cropped-Logo3-600-32x32.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2017/07/cropped-Logo3-600-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2017/07/cropped-Logo3-600-180x180.png" />
+<meta name="msapplication-TileImage" content="wp-content/uploads/2017/07/cropped-Logo3-600-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+
+.light-text nav ul#main-nav li a{
+  color: #FFFFFF;
+text-shadow: 3px 3px 3px 3px rgba(0,0,0,0.2);
+}
+
+
+.header-inner{
+  background: none;
+  background-color: #6d3165;
+}
+
+/* Pour virer le grain 
+.section-inner{
+     background: none;
+}*/
+
+.sticky-note {
+	background: transparent url('wp-content/uploads/2017/12/notes.png') no-repeat;
+	width: 280px;
+	height: 280px;
+	padding: 60px 30px 30px 30px;
+	overflow-y: scroll;
+	text-align: center;
+	float: right;
+	margin-top:-20px;
+	background-size: 100% 100%;
+}
+
+.sticky-note div {
+	transform: rotate(-2.5deg);
+}
+
+.sticky-note a {
+	border-bottom: 1px dotted;
+}
+
+.rouge {
+	color:#b81067;
+}
+
+.paligne {
+	text-align:justify;
+}
+
+.ItemCommittee img {
+	margin-right: .5rem;
+}
+
+
+.sponsors-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+	padding: 1rem;
+}
+.sponsors-list a {
+	vertical-align: middle;
+	padding: 1rem 1rem;
+	max-width: 220px;
+}
+
+
+.sponsors-list img {
+	width: 100%
+}
+		</style>
+		    
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet"> 
+
+		<style>
+
+@font-face {
+  font-family: "BazarMedium";
+  src: url("wp-content/themes/Retro-4/fonts/bazarmedium.eot");
+  src: url("wp-content/themes/Retro-4/fonts/bazarmedium.eot?#iefix") format("embedded-opentype"),
+       url("wp-content/themes/Retro-4/fonts/bazarmedium.woff") format("woff"),
+       url("wp-content/themes/Retro-4/fonts/bazarmedium.ttf") format("truetype"),
+       url("wp-content/themes/Retro-4/fonts/bazarmedium.svg#BazarMedium") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Fix ugly font rendering */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "BazarMedium";
+            src: url("wp-content/themes/Retro-4/fonts/bazarmedium.svg#BazarMedium") format("svg");
+    }
+}
+
+h1, h2, h3, h4, h5, h6,
+nav ul#main-nav li {
+  font-family: "BazarMedium";
+  text-transform: uppercase;
+}
+
+
+
+
+	#logo a {
+
+		background-image: url(wp-content/uploads/2017/09/logo-4.png);
+
+	}
+
+
+
+
+
+	nav ul#main-nav li a {
+		font-size: 100%;
+	}
+
+
+
+@import url('http://fonts.googleapis.com/css?family=PT+Sans:400,700');
+
+.sticky-note{
+  overflow-y: auto;
+}
+
+h1, h2, h3, h4, h5, h6, nav ul#main-nav li {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+nav ul#main-nav li {
+    font-weight: normal;
+    /*text-transform: none;*/
+}
+
+.wpcf7-form input{
+ max-width: 480px;
+}
+
+.wpcf7-form textarea{
+ max-width: 480px;
+}
+
+.wpcf7-form{
+ max-width: 500px;
+ margin: 0 auto;
+}
+
+
+hr.top-dashed,
+hr.bottom-dashed{
+  display: none;
+}
+
+body{
+  font-size:18px;
+  background-color:#ece7f8;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h2.section-title{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+nav ul#main-nav li {
+  font-size: 22px;
+}
+
+.retro-borders {
+    text-shadow: 2px 3px #FCFAF7;
+}
+
+#satellites, #satellites th, #satellites td{
+ border: 0; 
+}
+</style>
+	</head>
+
+	<body id="start" class="page-template-default page page-id-840 fixed-header left-logo">
+<header role="banner">
+
+    <div class="header-inner light-text" style="background-color: #2d214b">
+
+        <div class="container">
+
+            <div class="row clear">
+
+                
+<div id="logo">
+
+	<a href="index.html" title="RECOMB 2018" >
+
+		<h1>RECOMB 2018</h1>
+
+	</a>
+	
+</div>
+                <nav role="navigation">
+
+                    <ul id="main-nav" class="clear"><li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="program.html">Program</a></li>
+<li id="menu-item-896" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="keynotes.html">Keynotes</a></li>
+<li id="menu-item-1178" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="committees.html">Committees</a></li>
+<li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="satellites.html">Satellites</a></li>
+<li id="menu-item-2046" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="participants-and-awards.html">Participants and awards</a></li>
+<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="key-dates.html">Key Dates</a></li>
+<li id="menu-item-2073" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://recomb-conference.github.io/recomb2019">RECOMB 2019</a></li>
+</ul>
+                </nav>
+
+            </div><!-- row -->
+
+        </div><!-- container -->
+
+        <hr class="bottom-dashed">  
+
+    </div><!-- header-inner -->   
+
+</header>
+			
+
+	
+	<main role="main">
+
+		<section>
+
+			<div class="section-inner section-post " style="background-color: #ECE7F8">
+				
+				<hr class="top-dashed"> 
+
+				<div class="container">
+
+					<div class="row clear">
+
+						<article class="col col-12 tablet-full mobile-full">
+
+							<h2 class="post-title">RECOMB-Genetics</h2>
+
+							<hr class="single-hr">
+
+							<div class="hentry-content">
+								<p><strong>Dates</strong>: 19-20 April, 2018</p>
+<h4>Scope</h4>
+<p class="paligne">The 6th RECOMB Satellite on Computational Methods in Genetics will focus on current research at the intersection of genetics, computer science, statistics, and related fields in gathering and analyzing SNP and haplotype data and applying it to problems in medicine and basic research. Population genetics allows more refined understanding of the demographic history of our species, association analysis provides insights regarding the functional and molecular underpinnings of diseases and traits, while clinical applications suggest genetics as a trailblazer into personalized medicine. The complex bioinformatic questions arising range from inferring more nuanced statistical models of genetic information to algorithms that overcome the complexity challenges of analyzing millions of SNPs across millions of individuals, to systems level challenges of handling such Big Data repositories of genotypes and phenotypes.</p>
+<h4><strong>Schedule at-a-glance</strong></h4>
+<h3></h3>
+	<div class="mptt-shortcode-wrapper mptt-table-responsive">
+		<table class="mptt-shortcode-table " id="#all" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-18" data-index="18">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1778" data-start="18" data-start-item="18"
+     data-end="21"
+     class="mptt-event-container id-120 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(234, 153, 153)"
+     data-bg_color="rgb(224, 102, 102)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(224, 102, 102);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Romain Koszul (Keynote)" href="timetable.htmlevent/romain-koszul-keynote/" class="event-title">Romain Koszul (Keynote)</a>
+						<p class="timeslot">
+				<time datetime="09:10" class="timeslot-start">9 h 10 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="10:10" class="timeslot-end">10 h 10 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-19" data-index="19">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-20" data-index="20">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1333" data-start="20" data-start-item="20"
+     data-end="22"
+     class="mptt-event-container id-117 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(182, 215, 168)"
+     data-bg_color="rgb(147, 196, 125)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(147, 196, 125);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Coffee break" href="timetable.htmlevent/coffee-break/" class="event-title">Coffee break</a>
+						<p class="timeslot">
+				<time datetime="10:10" class="timeslot-start">10 h 10 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="10:40" class="timeslot-end">10 h 40 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-21" data-index="21">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1740" data-start="21" data-start-item="21"
+     data-end="24"
+     class="mptt-event-container id-112 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(234, 153, 153)"
+     data-bg_color="rgb(224, 102, 102)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(224, 102, 102);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Laurent Excoffier (Keynote)" href="laurent-excoffier/" class="event-title">Laurent Excoffier (Keynote)</a>
+						<p class="timeslot">
+				<time datetime="10:40" class="timeslot-start">10 h 40 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="11:40" class="timeslot-end">11 h 40 min</time>
+			</p>
+					<p class="event-description">The perils of inferring past demography from genomic data</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-22" data-index="22">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-23" data-index="23">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1779" data-start="23" data-start-item="23"
+     data-end="25"
+     class="mptt-event-container id-122 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(217, 210, 233)"
+     data-bg_color="rgb(180, 167, 214)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(180, 167, 214);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Session 2" href="#SessionGenetic2" class="event-title">Session 2</a>
+						<p class="timeslot">
+				<time datetime="11:40" class="timeslot-start">11 h 40 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="12:20" class="timeslot-end">12 h 20 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-24" data-index="24">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1347" data-start="24" data-start-item="24"
+     data-end="28"
+     class="mptt-event-container id-121 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(182, 215, 168)"
+     data-bg_color="rgb(147, 196, 125)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(147, 196, 125);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Lunch break" href="timetable.htmlevent/lunch-break/" class="event-title">Lunch break</a>
+						<p class="timeslot">
+				<time datetime="12:20" class="timeslot-start">12 h 20 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="13:50" class="timeslot-end">13 h 50 min</time>
+			</p>
+					<p class="event-description">Roam the streets of Paris...</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-25" data-index="25">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-26" data-index="26">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-27" data-index="27">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1775" data-start="27" data-start-item="27"
+     data-end="28"
+     class="mptt-event-container id-114 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(249, 203, 156)"
+     data-bg_color="rgb(246, 178, 107)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(246, 178, 107);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Welcome address" href="timetable.htmlevent/welcome-address/" class="event-title">Welcome address</a>
+						<p class="timeslot">
+				<time datetime="13:50" class="timeslot-start">13 h 50 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="14:00" class="timeslot-end">14 h 00 min</time>
+			</p>
+			</div>
+</div>							</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1780" data-start="27" data-start-item="27"
+     data-end="31"
+     class="mptt-event-container id-123 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(217, 210, 233)"
+     data-bg_color="rgb(180, 167, 214)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(180, 167, 214);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Session 3" href="#SessionGenetic3" class="event-title">Session 3</a>
+						<p class="timeslot">
+				<time datetime="13:50" class="timeslot-start">13 h 50 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="15:10" class="timeslot-end">15 h 10 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-28" data-index="28">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1419" data-start="28" data-start-item="28"
+     data-end="30"
+     class="mptt-event-container id-113 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(234, 153, 153)"
+     data-bg_color="rgb(224, 102, 102)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(224, 102, 102);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Alexis Battle (Keynote)" href="alexis-battle/" class="event-title">Alexis Battle (Keynote)</a>
+						<p class="timeslot">
+				<time datetime="14:00" class="timeslot-start">14 h 00 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="15:00" class="timeslot-end">15 h 00 min</time>
+			</p>
+					<p class="event-description">Shared with RECOMB-SEQ</p>
+			</div>
+</div>							</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-29" data-index="29">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-30" data-index="30">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1776" data-start="30" data-start-item="30"
+     data-end="32"
+     class="mptt-event-container id-115 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(217, 210, 233)"
+     data-bg_color="rgb(180, 167, 214)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(180, 167, 214);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Session 1" href="#SessionGenetic1" class="event-title">Session 1</a>
+						<p class="timeslot">
+				<time datetime="15:00" class="timeslot-start">15 h 00 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="16:00" class="timeslot-end">16 h 00 min</time>
+			</p>
+			</div>
+</div>							</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1333" data-start="30" data-start-item="30"
+     data-end="32"
+     class="mptt-event-container id-119 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(182, 215, 168)"
+     data-bg_color="rgb(147, 196, 125)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(147, 196, 125);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Coffee break" href="timetable.htmlevent/coffee-break/" class="event-title">Coffee break</a>
+						<p class="timeslot">
+				<time datetime="15:10" class="timeslot-start">15 h 10 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="15:40" class="timeslot-end">15 h 40 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-31" data-index="31">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1782" data-start="31" data-start-item="31"
+     data-end="34"
+     class="mptt-event-container id-124 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(234, 153, 153)"
+     data-bg_color="rgb(224, 102, 102)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(224, 102, 102);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Jian Yang (Keynote)" href="jian-yang/" class="event-title">Jian Yang (Keynote)</a>
+						<p class="timeslot">
+				<time datetime="15:40" class="timeslot-start">15 h 40 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="16:40" class="timeslot-end">16 h 40 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-32" data-index="32">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1333" data-start="32" data-start-item="32"
+     data-end="33"
+     class="mptt-event-container id-116 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(182, 215, 168)"
+     data-bg_color="rgb(147, 196, 125)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(147, 196, 125);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Coffee break" href="timetable.htmlevent/coffee-break/" class="event-title">Coffee break</a>
+						<p class="timeslot">
+				<time datetime="16:00" class="timeslot-start">16 h 00 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="16:30" class="timeslot-end">16 h 30 min</time>
+			</p>
+			</div>
+</div>							</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-33" data-index="33">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1704" data-start="33" data-start-item="33"
+     data-end="35"
+     class="mptt-event-container id-111 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(234, 153, 153)"
+     data-bg_color="rgb(224, 102, 102)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(224, 102, 102);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Lluis Quintana-Murci (Keynote)" href="lluis-quintana-murci/" class="event-title">Lluis Quintana-Murci (Keynote)</a>
+						<p class="timeslot">
+				<time datetime="16:30" class="timeslot-start">16 h 30 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="17:30" class="timeslot-end">17 h 30 min</time>
+			</p>
+					<p class="event-description">Population genetics and genomics of immunity to infection</p>
+			</div>
+</div>							</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1426" data-start="33" data-start-item="33"
+     data-end="36"
+     class="mptt-event-container id-125 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(159, 197, 232)"
+     data-bg_color="rgb(111, 168, 220)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(111, 168, 220);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Poster session" href="/posters" class="event-title">Poster session</a>
+						<p class="timeslot">
+				<time datetime="16:40" class="timeslot-start">16 h 40 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="18:00" class="timeslot-end">18 h 00 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-34" data-index="34">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-35" data-index="35">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-36" data-index="36">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1325" data-start="36" data-start-item="36"
+     data-end="41"
+     class="mptt-event-container id-130 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(182, 215, 168)"
+     data-bg_color="rgb(147, 196, 125)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(147, 196, 125);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<span class="event-title">Opening reception + Registration</span>
+						<p class="timeslot">
+				<time datetime="18:00" class="timeslot-start">18 h 00 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="20:30" class="timeslot-end">20 h 30 min</time>
+			</p>
+					<p class="event-description">Open to both RECOMB and satellites participants</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-37" data-index="37">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-38" data-index="38">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-39" data-index="39">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-40" data-index="40">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#welcome-address" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-27" data-index="27">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1775" data-start="27" data-start-item="27"
+     data-end="28"
+     class="mptt-event-container id-114 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(249, 203, 156)"
+     data-bg_color="rgb(246, 178, 107)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(246, 178, 107);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Welcome address" href="timetable.htmlevent/welcome-address/" class="event-title">Welcome address</a>
+						<p class="timeslot">
+				<time datetime="13:50" class="timeslot-start">13 h 50 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="14:00" class="timeslot-end">14 h 00 min</time>
+			</p>
+			</div>
+</div>							</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#alexis-battle-keynote" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-28" data-index="28">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1419" data-start="28" data-start-item="28"
+     data-end="30"
+     class="mptt-event-container id-113 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(234, 153, 153)"
+     data-bg_color="rgb(224, 102, 102)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(224, 102, 102);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Alexis Battle (Keynote)" href="alexis-battle/" class="event-title">Alexis Battle (Keynote)</a>
+						<p class="timeslot">
+				<time datetime="14:00" class="timeslot-start">14 h 00 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="15:00" class="timeslot-end">15 h 00 min</time>
+			</p>
+					<p class="event-description">Shared with RECOMB-SEQ</p>
+			</div>
+</div>							</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-29" data-index="29">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#session-a" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-30" data-index="30">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1776" data-start="30" data-start-item="30"
+     data-end="32"
+     class="mptt-event-container id-115 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(217, 210, 233)"
+     data-bg_color="rgb(180, 167, 214)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(180, 167, 214);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Session 1" href="#SessionGenetic1" class="event-title">Session 1</a>
+						<p class="timeslot">
+				<time datetime="15:00" class="timeslot-start">15 h 00 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="16:00" class="timeslot-end">16 h 00 min</time>
+			</p>
+			</div>
+</div>							</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-31" data-index="31">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#coffee-break" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-20" data-index="20">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1333" data-start="20" data-start-item="20"
+     data-end="22"
+     class="mptt-event-container id-117 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(182, 215, 168)"
+     data-bg_color="rgb(147, 196, 125)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(147, 196, 125);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Coffee break" href="timetable.htmlevent/coffee-break/" class="event-title">Coffee break</a>
+						<p class="timeslot">
+				<time datetime="10:10" class="timeslot-start">10 h 10 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="10:40" class="timeslot-end">10 h 40 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-21" data-index="21">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-30" data-index="30">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1333" data-start="30" data-start-item="30"
+     data-end="32"
+     class="mptt-event-container id-119 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(182, 215, 168)"
+     data-bg_color="rgb(147, 196, 125)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(147, 196, 125);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Coffee break" href="timetable.htmlevent/coffee-break/" class="event-title">Coffee break</a>
+						<p class="timeslot">
+				<time datetime="15:10" class="timeslot-start">15 h 10 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="15:40" class="timeslot-end">15 h 40 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-31" data-index="31">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-32" data-index="32">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1333" data-start="32" data-start-item="32"
+     data-end="33"
+     class="mptt-event-container id-116 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(182, 215, 168)"
+     data-bg_color="rgb(147, 196, 125)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(147, 196, 125);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Coffee break" href="timetable.htmlevent/coffee-break/" class="event-title">Coffee break</a>
+						<p class="timeslot">
+				<time datetime="16:00" class="timeslot-start">16 h 00 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="16:30" class="timeslot-end">16 h 30 min</time>
+			</p>
+			</div>
+</div>							</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#lluis-quintana-murci-keynote" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-33" data-index="33">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1704" data-start="33" data-start-item="33"
+     data-end="35"
+     class="mptt-event-container id-111 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(234, 153, 153)"
+     data-bg_color="rgb(224, 102, 102)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(224, 102, 102);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Lluis Quintana-Murci (Keynote)" href="lluis-quintana-murci/" class="event-title">Lluis Quintana-Murci (Keynote)</a>
+						<p class="timeslot">
+				<time datetime="16:30" class="timeslot-start">16 h 30 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="17:30" class="timeslot-end">17 h 30 min</time>
+			</p>
+					<p class="event-description">Population genetics and genomics of immunity to infection</p>
+			</div>
+</div>							</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-34" data-index="34">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#romain-koszul-keynote" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-18" data-index="18">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1778" data-start="18" data-start-item="18"
+     data-end="21"
+     class="mptt-event-container id-120 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(234, 153, 153)"
+     data-bg_color="rgb(224, 102, 102)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(224, 102, 102);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Romain Koszul (Keynote)" href="timetable.htmlevent/romain-koszul-keynote/" class="event-title">Romain Koszul (Keynote)</a>
+						<p class="timeslot">
+				<time datetime="09:10" class="timeslot-start">9 h 10 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="10:10" class="timeslot-end">10 h 10 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-19" data-index="19">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-20" data-index="20">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#laurent-excoffier-keynote" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-21" data-index="21">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1740" data-start="21" data-start-item="21"
+     data-end="24"
+     class="mptt-event-container id-112 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(234, 153, 153)"
+     data-bg_color="rgb(224, 102, 102)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(224, 102, 102);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Laurent Excoffier (Keynote)" href="laurent-excoffier/" class="event-title">Laurent Excoffier (Keynote)</a>
+						<p class="timeslot">
+				<time datetime="10:40" class="timeslot-start">10 h 40 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="11:40" class="timeslot-end">11 h 40 min</time>
+			</p>
+					<p class="event-description">The perils of inferring past demography from genomic data</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-22" data-index="22">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-23" data-index="23">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#talks-session-b" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-23" data-index="23">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1779" data-start="23" data-start-item="23"
+     data-end="25"
+     class="mptt-event-container id-122 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(217, 210, 233)"
+     data-bg_color="rgb(180, 167, 214)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(180, 167, 214);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Session 2" href="#SessionGenetic2" class="event-title">Session 2</a>
+						<p class="timeslot">
+				<time datetime="11:40" class="timeslot-start">11 h 40 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="12:20" class="timeslot-end">12 h 20 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-24" data-index="24">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#lunch-break" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-24" data-index="24">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1347" data-start="24" data-start-item="24"
+     data-end="28"
+     class="mptt-event-container id-121 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(182, 215, 168)"
+     data-bg_color="rgb(147, 196, 125)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(147, 196, 125);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Lunch break" href="timetable.htmlevent/lunch-break/" class="event-title">Lunch break</a>
+						<p class="timeslot">
+				<time datetime="12:20" class="timeslot-start">12 h 20 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="13:50" class="timeslot-end">13 h 50 min</time>
+			</p>
+					<p class="event-description">Roam the streets of Paris...</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-25" data-index="25">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-26" data-index="26">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-27" data-index="27">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#talks-session-c" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-27" data-index="27">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1780" data-start="27" data-start-item="27"
+     data-end="31"
+     class="mptt-event-container id-123 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(217, 210, 233)"
+     data-bg_color="rgb(180, 167, 214)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(180, 167, 214);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Session 3" href="#SessionGenetic3" class="event-title">Session 3</a>
+						<p class="timeslot">
+				<time datetime="13:50" class="timeslot-start">13 h 50 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="15:10" class="timeslot-end">15 h 10 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-28" data-index="28">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-29" data-index="29">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-30" data-index="30">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#jian-yang-keynote" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-31" data-index="31">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1782" data-start="31" data-start-item="31"
+     data-end="34"
+     class="mptt-event-container id-124 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(234, 153, 153)"
+     data-bg_color="rgb(224, 102, 102)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(224, 102, 102);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Jian Yang (Keynote)" href="jian-yang/" class="event-title">Jian Yang (Keynote)</a>
+						<p class="timeslot">
+				<time datetime="15:40" class="timeslot-start">15 h 40 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="16:40" class="timeslot-end">16 h 40 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-32" data-index="32">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-33" data-index="33">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#poster-session-2" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-33" data-index="33">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1426" data-start="33" data-start-item="33"
+     data-end="36"
+     class="mptt-event-container id-125 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(159, 197, 232)"
+     data-bg_color="rgb(111, 168, 220)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(111, 168, 220);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Poster session" href="/posters" class="event-title">Poster session</a>
+						<p class="timeslot">
+				<time datetime="16:40" class="timeslot-start">16 h 40 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="18:00" class="timeslot-end">18 h 00 min</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-34" data-index="34">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-35" data-index="35">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#opening-reception-registration" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="1" data-column-id="1701">Thursday April 19th <br> RECOMB Genetics I</th>
+			<th data-index="2" data-column-id="1702">Friday April 20th<br> RECOMB Genetics II</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-36" data-index="36">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+								<div data-event-id="1325" data-start="36" data-start-item="36"
+     data-end="41"
+     class="mptt-event-container id-130 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(182, 215, 168)"
+     data-bg_color="rgb(147, 196, 125)"
+     data-hover_color=""
+     data-color=""
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(147, 196, 125);          height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<span class="event-title">Opening reception + Registration</span>
+						<p class="timeslot">
+				<time datetime="18:00" class="timeslot-start">18 h 00 min</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="20:30" class="timeslot-end">20 h 30 min</time>
+			</p>
+					<p class="event-description">Open to both RECOMB and satellites participants</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-37" data-index="37">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-38" data-index="38">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-39" data-index="39">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-40" data-index="40">
+												<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1701" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+													<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="1702" colspan="1" data-row_height="42" style="height:42px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+			<div class="mptt-shortcode-list ">
+								<div class="mptt-column">
+						<h3 class="mptt-column-title">Thursday April 19th <br> RECOMB Genetics I</h3>
+						<ul class="mptt-events-list">
+																<li class="mptt-list-event" data-event-id="welcome-address"
+										style="border-left-color:rgb(246, 178, 107);">
+																						<a title="Welcome address"
+												href="timetable.htmlevent/welcome-address/"
+												class="mptt-event-title">
+											Welcome address												</a>
+																						<p class="timeslot">
+												<time datetime="13:50" class="timeslot-start">13 h 50 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="14:00" class="timeslot-end">14 h 00 min</time>
+											</p>
+																					<p class="event-description">
+																							</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="alexis-battle-keynote"
+										style="border-left-color:rgb(224, 102, 102);">
+																						<a title="Alexis Battle (Keynote)"
+												href="alexis-battle/"
+												class="mptt-event-title">
+											Alexis Battle (Keynote)												</a>
+																						<p class="timeslot">
+												<time datetime="14:00" class="timeslot-start">14 h 00 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="15:00" class="timeslot-end">15 h 00 min</time>
+											</p>
+																					<p class="event-description">
+												Shared with RECOMB-SEQ											</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="session-a"
+										style="border-left-color:rgb(180, 167, 214);">
+																						<a title="Session 1"
+												href="#SessionGenetic1"
+												class="mptt-event-title">
+											Session 1												</a>
+																						<p class="timeslot">
+												<time datetime="15:00" class="timeslot-start">15 h 00 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="16:00" class="timeslot-end">16 h 00 min</time>
+											</p>
+																					<p class="event-description">
+																							</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="coffee-break"
+										style="border-left-color:rgb(147, 196, 125);">
+																						<a title="Coffee break"
+												href="timetable.htmlevent/coffee-break/"
+												class="mptt-event-title">
+											Coffee break												</a>
+																						<p class="timeslot">
+												<time datetime="16:00" class="timeslot-start">16 h 00 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="16:30" class="timeslot-end">16 h 30 min</time>
+											</p>
+																					<p class="event-description">
+																							</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="lluis-quintana-murci-keynote"
+										style="border-left-color:rgb(224, 102, 102);">
+																						<a title="Lluis Quintana-Murci (Keynote)"
+												href="lluis-quintana-murci/"
+												class="mptt-event-title">
+											Lluis Quintana-Murci (Keynote)												</a>
+																						<p class="timeslot">
+												<time datetime="16:30" class="timeslot-start">16 h 30 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="17:30" class="timeslot-end">17 h 30 min</time>
+											</p>
+																					<p class="event-description">
+												Population genetics and genomics of immunity to infection  											</p>
+																			</li>
+														</ul>
+					</div>
+									<div class="mptt-column">
+						<h3 class="mptt-column-title">Friday April 20th<br> RECOMB Genetics II</h3>
+						<ul class="mptt-events-list">
+																<li class="mptt-list-event" data-event-id="romain-koszul-keynote"
+										style="border-left-color:rgb(224, 102, 102);">
+																						<a title="Romain Koszul (Keynote)"
+												href="timetable.htmlevent/romain-koszul-keynote/"
+												class="mptt-event-title">
+											Romain Koszul (Keynote)												</a>
+																						<p class="timeslot">
+												<time datetime="09:10" class="timeslot-start">9 h 10 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="10:10" class="timeslot-end">10 h 10 min</time>
+											</p>
+																					<p class="event-description">
+																							</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="coffee-break"
+										style="border-left-color:rgb(147, 196, 125);">
+																						<a title="Coffee break"
+												href="timetable.htmlevent/coffee-break/"
+												class="mptt-event-title">
+											Coffee break												</a>
+																						<p class="timeslot">
+												<time datetime="10:10" class="timeslot-start">10 h 10 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="10:40" class="timeslot-end">10 h 40 min</time>
+											</p>
+																					<p class="event-description">
+																							</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="laurent-excoffier-keynote"
+										style="border-left-color:rgb(224, 102, 102);">
+																						<a title="Laurent Excoffier (Keynote)"
+												href="laurent-excoffier/"
+												class="mptt-event-title">
+											Laurent Excoffier (Keynote)												</a>
+																						<p class="timeslot">
+												<time datetime="10:40" class="timeslot-start">10 h 40 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="11:40" class="timeslot-end">11 h 40 min</time>
+											</p>
+																					<p class="event-description">
+												The perils of inferring past demography from genomic data											</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="talks-session-b"
+										style="border-left-color:rgb(180, 167, 214);">
+																						<a title="Session 2"
+												href="#SessionGenetic2"
+												class="mptt-event-title">
+											Session 2												</a>
+																						<p class="timeslot">
+												<time datetime="11:40" class="timeslot-start">11 h 40 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="12:20" class="timeslot-end">12 h 20 min</time>
+											</p>
+																					<p class="event-description">
+																							</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="lunch-break"
+										style="border-left-color:rgb(147, 196, 125);">
+																						<a title="Lunch break"
+												href="timetable.htmlevent/lunch-break/"
+												class="mptt-event-title">
+											Lunch break												</a>
+																						<p class="timeslot">
+												<time datetime="12:20" class="timeslot-start">12 h 20 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="13:50" class="timeslot-end">13 h 50 min</time>
+											</p>
+																					<p class="event-description">
+												Roam the streets of Paris...											</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="talks-session-c"
+										style="border-left-color:rgb(180, 167, 214);">
+																						<a title="Session 3"
+												href="#SessionGenetic3"
+												class="mptt-event-title">
+											Session 3												</a>
+																						<p class="timeslot">
+												<time datetime="13:50" class="timeslot-start">13 h 50 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="15:10" class="timeslot-end">15 h 10 min</time>
+											</p>
+																					<p class="event-description">
+																							</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="coffee-break"
+										style="border-left-color:rgb(147, 196, 125);">
+																						<a title="Coffee break"
+												href="timetable.htmlevent/coffee-break/"
+												class="mptt-event-title">
+											Coffee break												</a>
+																						<p class="timeslot">
+												<time datetime="15:10" class="timeslot-start">15 h 10 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="15:40" class="timeslot-end">15 h 40 min</time>
+											</p>
+																					<p class="event-description">
+																							</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="jian-yang-keynote"
+										style="border-left-color:rgb(224, 102, 102);">
+																						<a title="Jian Yang (Keynote)"
+												href="jian-yang/"
+												class="mptt-event-title">
+											Jian Yang (Keynote)												</a>
+																						<p class="timeslot">
+												<time datetime="15:40" class="timeslot-start">15 h 40 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="16:40" class="timeslot-end">16 h 40 min</time>
+											</p>
+																					<p class="event-description">
+																							</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="poster-session-2"
+										style="border-left-color:rgb(111, 168, 220);">
+																						<a title="Poster session"
+												href="/posters"
+												class="mptt-event-title">
+											Poster session												</a>
+																						<p class="timeslot">
+												<time datetime="16:40" class="timeslot-start">16 h 40 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="18:00" class="timeslot-end">18 h 00 min</time>
+											</p>
+																					<p class="event-description">
+																							</p>
+																			</li>
+																	<li class="mptt-list-event" data-event-id="opening-reception-registration"
+										style="border-left-color:rgb(147, 196, 125);">
+										Opening reception + Registration											<p class="timeslot">
+												<time datetime="18:00" class="timeslot-start">18 h 00 min</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="20:30" class="timeslot-end">20 h 30 min</time>
+											</p>
+																					<p class="event-description">
+												Open to both RECOMB and satellites participants											</p>
+																			</li>
+														</ul>
+					</div>
+						</div>
+		</div>
+
+<h3 id="SessionGenetic1" class="session">Session 1</h3>
+<ul>
+<li class="talk"><span class="authors">Aritra Bose, Filippo Utro, Daniel Platt and Laxmi Parida</span><span class="title">Algorithms to modulate ARG by Selection</span></li>
+<li class="talk"><span class="authors">Cesar Fortes-Lima, Romain Laurent and Paul Verdu</span><span class="title">Complex demographic histories of admixed populations reconstructed with Approximate Bayesian Computations</span></li>
+<li class="talk"><span class="authors">Yaxuan Wang, Luay Nakhleh</span><span class="title">Towards an Accurate and Efficient Heuristic for Species/Gene Tree Co-estimation – might not be able to present</span></li>
+</ul>
+<h3 id="SessionGenetic2" class="session">Session 2</h3>
+<ul>
+<li class="talk"><span class="authors">Weiguang Mao and Maria Chikina</span><span class="title">DataRemix: a universal data transformation for optimal inference from gene expression datasets</span></li>
+<li class="talk"><span class="authors">Florian Privé, Hugues Aschard and Michael G.B. Blum</span><span class="title">Predicting complex diseases: performance and robustness</span></li>
+</ul>
+<h3 id="SessionGenetic3" class="session">Session 3</h3>
+<ul>
+<li class="talk"><span class="authors">Andreea Dreau, Felicity Jones, Vrinda Venu and Ludmila Gaspar</span><span class="title">Construction of individual recombination maps using linked-read sequencing data</span></li>
+<li class="talk"><span class="authors">Eyal Fisher, Elior Rahmani, Regev Schweiger, Eran Halperin and Saharon Rosset</span><span class="title">Estimating cell-type composition from DNA methylation sequencing data</span></li>
+<li class="talk"><span class="authors">Svetlana Vinogradova, Saumya Gupta, Sébastien Vigneau and Alexander Gimelbrant</span><span class="title">Allelic imbalances and variable clonal representation in GTEx Consortium data</span></li>
+<li class="talk"><span class="authors">Maud Fagny, John Platig, Marieke Kuijjer and John Quackenbush</span><span class="title">Investigating cancer risk germline mutations using eQTL networks</span></li>
+</ul>
+<h4>Invited Speakers</h4>
+<p><b><img class="alignleft wp-image-777 size-thumbnail" src="wp-content/uploads/2018/01/Excoffier-e1516613360890.jpg" alt="" width="150" height="150" />Laurent Excoffier</b><br />
+University of Bern, Switzerland</p>
+<div style="clear: both;"></div>
+<p><b><img class="alignleft wp-image-776 size-thumbnail" src="wp-content/uploads/2018/01/yang.jpg" alt="" width="150" height="150" />Jian Yang</b><br />
+University of Queensland, Australia</p>
+<div style="clear: both;"></div>
+<p><b><img class="alignleft wp-image-777 size-thumbnail" src="wp-content/uploads/2018/03/quintana_photo-e1519891604111.jpeg" alt="" width="150" height="150" />Louis Quintana-Murci </b><br />
+Institut Pasteur, France</p>
+<div style="clear: both;"></div>
+<p><b><img class="alignleft wp-image-776 size-thumbnail" src="wp-content/uploads/2018/03/romain_koszul.jpeg" alt="" width="150" height="150" />Romain Koszul</b><br />
+Institut Pasteur and CNRS, France</p>
+<div style="clear: both;"></div>
+<div></div>
+<h4>Accepted posters</h4>
+<li class="talk"><span class="authors">Nathan Yang and Anthony Kusalik</span><span class="title">A comparative study of genotype imputation programs.</span></li>
+<li class="talk"><span class="authors">Qian Peng, Kirk Wilhelmsen and Cindy Ehlers</span><span class="title">Pleiotropy between GWAS catalog traits and alcohol-related life events and substance-induced depressions in two independent populations.</span></li>
+<li class="talk"><span class="authors">Yan Yan, Connor Burbridge and Anthony Kusali</span><span class="title">Tracking Top 20 Associations from Four Genome-Wide Association Study (GWAS) Programs with Varied Input Data Quantity.</span></li>
+<h4>Steering commitee</h4>
+<p>Itsik Pe’er, Columbia University<br />
+Eleazar Eskin, University of California, Los Angeles</p>
+<h4>Program Committee Chairs</h4>
+<p>Simon Gravel, McGill University, Canada<br />
+Hugues Aschard, Institut Pasteur, France</p>
+<h4>Program Committee</h4>
+<p>Florence Demenais<br />
+Jason Ernst<br />
+Emmanuelle Genin<br />
+Alexander Gusev<br />
+Brent Kirkpatrick<br />
+Po-Ru Loh<br />
+Ion Mandoiu<br />
+Sriram Sankararaman<br />
+Bjarni Vilhjalmsson<br />
+Benjamin Voight</p>
+<p><!-- 
+
+
+<h4>Submission</h4>
+
+
+
+
+<p class="paligne">Abstracts should be single (1-2 for highlight) single-spaced US letter or A4 pages with at most a 6.5×9″ text area in at least 11 point font. Title and authors, corresponding author’s email address, figures, and tables all included. An optional link to a full-details version on BioArxiv is allowed contingent on commitment for maintaining static content of such a version between submission and the conference. Abstracts must be submitted electronically in PDF format through the <a href="https://easychair.org/conferences/?conf=recomb2018" target="_blank" rel="noopener">EasyChair system</a>, by selecting the genetics satellite from the menu.</p>
+
+
+Original abstracts submitted for review should represent original, previously unpublished work. At the time of submission to the workshop, and for the entire review period, the work should not be under review by any other conference or scientific journal.
+
+The submission system will be open until <span class="rouge">February 9th, 2018</span>. Authors will be notified of acceptance or rejection by email on or before <span class="rouge">February 21th, 2018</span>. An author of each accepted abstract is expected to attend the workshop and present the paper; otherwise, alternative arrangements should be made to have the paper presented.
+
+
+
+<h4>Contributions</h4>
+
+
+We solicit contributions in two different categories as follows:
+
+
+<ol>
+ 	
+
+<li>Highlights Track abstracts. 1-2 pages describing computational aspects of work that has been published in a journal after December 1, 2016, or papers that are in press at the time of submission and are already linked on the journal website. This track is joint with the main RECOMB conference.</li>
+
+
+ 	
+
+<li>Short talks / Posters / Lightning poster talks. Regular 1-page abstracts describing original work, including software applications. These will be considered for short presentations as well as for posters. Lightning poster talks will be encouraged to acquaint the audience with work presented in a poster.</li>
+
+
+</ol>
+
+
+
+
+<h4>Topics</h4>
+
+
+
+
+<p class="paligne">(<i>include but not limited to</i>)</p>
+
+
+
+
+
+<ul>
+ 	
+
+<li>Association analysis pipelines, imputation, phasing and meta-analysis</li>
+
+
+ 	
+
+<li>Rare variants analyses and burden tests</li>
+
+
+ 	
+
+<li>Risk/phenotype prediction models and heritability analysis</li>
+
+
+ 	
+
+<li>Analysis of molecular and ‘omics phenotypes (e.g., gene expression and other epigenetic markers)</li>
+
+
+ 	
+
+<li>Complex associations including mixed models, epistasis, normalization</li>
+
+
+ 	
+
+<li>Structured phenotypes: multiple/serial/intermediate phenotypes and pleiotropy</li>
+
+
+ 	
+
+<li>Inference of population structure and demographic history</li>
+
+
+ 	
+
+<li>Models for mutation, recombination, selection, and conservation</li>
+
+
+ 	
+
+<li>Relatedness and identity-by-descent</li>
+
+
+ 	
+
+<li>Structural variation</li>
+
+
+</ul>
+
+
+ --><br />
+&nbsp;</p>
+							</div>
+
+						</article>  
+
+						
+					</div><!-- row -->           
+
+				</div><!-- container -->
+
+				<hr class="bottom-dashed">        
+
+			</div>
+			
+		</section> 
+
+	</main>
+
+
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/recomb2018.fr\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='wp-content/themes/Retro-4/js/plugins.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var retro_home_vars = {"speed":"500","pausetime":"4000","autosliding":"slider-auto-sliding","pausehover":"slider-pause-hover","url":"http:\/\/recomb2018.fr\/wp-admin\/admin-ajax.php","ref":"3598846a39","articlenr":"3","portfolionr":"8"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/themes/Retro-4/js/retro.js?ver=4.9.2'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='wp-content/plugins/mp-timetable.htmlmedia/js/mptt-functions.min.js?ver=2.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MPTT = {"table_class":"mptt-shortcode-table"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/mp-timetable.htmlmedia/js/events/event.min.js?ver=2.3.1'></script>
+			<script type="text/javascript">
+				jQuery.noConflict();
+				(function( $ ) {
+					$(function() {
+						// More code using $ as alias to jQuery
+						$("area[href*=\\#],a[href*=\\#]:not([href=\\#]):not([href^='\\#tab']):not([href^='\\#quicktab']):not([href^='\\#pane'])").click(function() {
+							if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+								var target = $(this.hash);
+								target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+								if (target.length) {
+								$('html,body').animate({
+								scrollTop: target.offset().top - 180  
+								},900 ,'easeInOutQuart');
+								return false;
+								}
+							}
+						});
+					});
+				})(jQuery);	
+			</script>				
+				
+	</body>
+	
+</html>
